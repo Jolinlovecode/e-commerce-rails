@@ -12,14 +12,14 @@ class SessionsController < ApplicationController
       redirect_to "/"
     else
       # otherwise send the login form to the user
-      redirect_to "login"
+      redirect_to '/users/new'
     end
   end 
 
 
   def destroy
     session[:user_id] = nil
-    redirect_to "/login"
+    redirect_to '/'
   end
-  
+
 end
