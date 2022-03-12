@@ -11,7 +11,7 @@ class SessionsController < ApplicationController
       session[:user_id] = user.id
       redirect_to "/"
     else
-      # otherwise send the login form to the user
+      # otherwise send new user form back to the user.
       redirect_to '/users/new'
     end
   end 
