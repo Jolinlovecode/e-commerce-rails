@@ -29,7 +29,7 @@
           <%= link_to 'About Us', about_index_path %>
         </li>
         <% if current_user %>
-        <li>
+        <li id="user-greeting">
           Welcome <%= current_user.first_name %>
         </li>
         <li>
