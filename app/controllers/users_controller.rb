@@ -12,9 +12,8 @@ class UsersController < ApplicationController
         else
           redirect_to new_user_path, alert: user.errors.full_messages.first 
         end
-      redirect_to "/"
     else
-      redirect_to new_user_path, alert: "password wrong"
+      redirect_to new_user_path, alert: "password does not match"
     end
   end 
 
