@@ -31,3 +31,27 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Screenshots
+***Home page
+![home page](https://github.com/Jolinlovecode/e-commerce-rails/blob/master/Image/home-page.png?raw=true)
+***Categories electronics
+![categories-electronics](https://github.com/Jolinlovecode/e-commerce-rails/blob/master/Image/categories-electronics.png?raw=true)
+***Product details
+![product details](https://github.com/Jolinlovecode/e-commerce-rails/blob/master/Image/product-details.png?raw=true)
+***Signup New User 
+![new user](https://github.com/Jolinlovecode/e-commerce-rails/blob/master/Image/signup-new%20user.png?raw=true)
+***Login page
+![login](https://github.com/Jolinlovecode/e-commerce-rails/blob/master/Image/login%20form.png?raw=true)
+***User Authentication
+![User Authentication](https://github.com/Jolinlovecode/e-commerce-rails/blob/master/Image/User%20Authentication.png?raw=true)
+***Admin-categories page
+![Admin-categories page](https://github.com/Jolinlovecode/e-commerce-rails/blob/master/Image/admin-categories%20page.png?raw=true)
+***Admin-products page
+![admin-products page](https://github.com/Jolinlovecode/e-commerce-rails/blob/master/Image/admin-products%20page.png?raw=true)
+***Cart page
+![cart](https://github.com/Jolinlovecode/e-commerce-rails/blob/master/Image/cart-page.png?raw=true)
+***Card page
+![card](https://github.com/Jolinlovecode/e-commerce-rails/blob/master/Image/card%20info%20form.png?raw=true)
+***Order page
+![order](https://github.com/Jolinlovecode/e-commerce-rails/blob/master/Image/order%20page.png?raw=true)
